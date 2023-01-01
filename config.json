@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6281334509968@s.whatsapp.net",
+  "botName": "Lynxzz Bot",
+  "ownerName": "Lynxzz",
+  "footer": "*2022 © LYNXZZBOT*",
+  "apikey": "BELI ATUH",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "LYNXZZ",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
